@@ -1,4 +1,3 @@
-
 import getHealth from '../app';
 
 test.each([

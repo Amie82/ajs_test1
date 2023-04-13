@@ -1,4 +1,3 @@
-
 export default function getHealth(value) {
   let result;
   if (value.health > 50) {
